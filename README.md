@@ -27,7 +27,7 @@ def lagran(f_x):   # функция, реализующая вычисление
 
 > Вышеприведённый код реализует следующие математические формулы: 
 
-![Screen formula!](Screenshots/ScreenFormula.PNG "Screen formula")
+![Screen formula!](Screenshots/ScreenFormula.png "Screen formula")
 
 > Структура файла CSV должна быть приведена в соответствие со следующими принципами: 
  - В первом столбце должны быть значения даты в формате DD.MM.YYYY
@@ -35,4 +35,4 @@ def lagran(f_x):   # функция, реализующая вычисление
 
 > Результат выполнения с файлом CSV, расположенным в папке **Example** можно увидеть ниже:
 
-![ScreenOutput!](Screenshots/ScreenOutput.PNG "ScreenOutput")
+![ScreenOutput!](Screenshots/ScreenOutput.png "ScreenOutput")
